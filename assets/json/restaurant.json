@@ -1,0 +1,504 @@
+[
+ 
+    {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },
+      {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      },   {
+        "namarestaurant" : "ROXY KFC ",
+        "alamat" : "ROXY MAS KFC",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image2.jpg",
+        "description" : "KFC adalah suatu merek dagang waralaba asal Amerika Serikat yang terkenal dengan menu andalannya yaitu ayam goreng.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+        ]
+      },
+      {
+        "namarestaurant" : "Kopi Kenangan ",
+        "alamat" : "MANGGA DUA SQUARE",
+        "ratings" : 5.0, 
+        "gambarrestaurant" : "assets/images/image1.jpg",
+        "description" : "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia. Kopi Kenangan dianggap sukses mengisi ceruk kesenjangan harga antara kopi mahal bertaraf peritel internasional dan kopi instan kemasan yang disajikan di warung-warung kopi.",
+        "listmenu" : [
+            {
+              "namamenu" : "Paket A",
+              "deskripsimenu" : "Ayam goreng pakai sambal",
+              "harga" : 20000, 
+              "gambarmenu" : "assets/images/ayamgorengsambal.jpeg" 
+            },
+            {
+              "namamenu" : "Paket B",
+              "deskripsimenu" : "Ayam Goreng pakai nasi pakai sambal",
+              "harga" : 40000,
+              "gambarmenu" : "assets/images/ayamgorengnasi.jpeg" 
+  
+            }
+          
+           
+        ]
+      }
+    
+
+    
+    
+]
